@@ -1,6 +1,6 @@
 # CVPR 2018 Papers with pdf links from [arXiv](https://arxiv.org/)
-Paper ID   | Type | Title | Author(s) | url | pdf
-----------|-------------|-------------|-------------|-------------|-------------|
+Paper ID   | Type | Title | Author(s) | url & pdf
+----------|-------------|-------------|-------------|-------------
 5 |Poster |Single-Shot Refinement Neural Network for Object Detection |Shifeng Zhang, CBSR, NLPR, CASIA; Longyin Wen, GE Global Research Center; Xiao Bian, ; Zhen Lei, Chinese Academy of Sciences ; Stan Li, |https://arxiv.org/abs/1711.06897 https://arxiv.org/pdf/1711.06897.pdf |
 7 |Poster |Video Captioning via Hierarchical Reinforcement Learning |Xin Wang, UCSB; Wenhu Chen, ; Jiawei Wu, UCSB; Yuan-Fang Wang, UCSB; William Yang Wang, UCSB |https://arxiv.org/abs/1711.11135 https://arxiv.org/pdf/1711.11135.pdf |
 12 |Oral |DensePose: Multi-Person Dense Human Pose Estimation In The Wild |Alp Guler, INRIA; Natalia Neverova, Facebook AI Research; Iasonas Kokkinos, FAIR/UCL |nan nan |
