@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-    <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Thu, 6 Sep 2018</title>
-        <link rel="icon" href="../../images/wechat.ico" type="image/x-icon"/>  
-        <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="../../css/site.css">
-    </head>
-    <body style="">
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="/"  class="navbar-brand">Max Zhang</a>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a href="/" >Home</a></li>
-                        <li><a href="/about/">About</a></li>
-                        <li><a href="/contact/" >Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    <div class="container body-content">
-        
 # ArXiv Paper Abstract--Thu, 6 Sep 2018
 ### 1.DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task  Consistency  [ pdf ](https://arxiv.org/pdf/1809.01649.pdf)
 > We present an unsupervised learning framework for simultaneously training single-view depth prediction and optical flow estimation models using unlabeled video sequences. Existing unsupervised methods often exploit brightness constancy and spatial smoothness priors to train depth or flow models. In this paper, we propose to leverage geometric consistency as additional supervisory signals. Our core idea is that for rigid regions we can use the predicted scene depth and camera motion to synthesize 2D optical flow by backprojecting the induced 3D scene flow. The discrepancy between the rigid flow (from depth prediction and camera motion) and the estimated flow (from optical flow model) allows us to impose a cross-task consistency loss. While all the networks are jointly optimized during training, they can be applied independently at test time. Extensive experiments demonstrate that our depth and flow models compare favorably with state-of-the-art unsupervised methods. 

@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-    <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Mon, 3 Sep 2018</title>
-        <link rel="icon" href="../../images/wechat.ico" type="image/x-icon"/>  
-        <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="../../css/site.css">
-    </head>
-    <body style="">
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="/"  class="navbar-brand">Max Zhang</a>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a href="/" >Home</a></li>
-                        <li><a href="/about/">About</a></li>
-                        <li><a href="/contact/" >Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    <div class="container body-content">
-        
 # ArXiv Paper Abstract--Mon, 3 Sep 2018
 ### 1.Fully Dense UNet for 2D Sparse Photoacoustic Tomography Artifact Removal  [ pdf ](https://arxiv.org/pdf/1808.10848.pdf)
 > Photoacoustic imaging is an emerging imaging modality that is based upon the photoacoustic effect. In photoacoustic tomography (PAT), the induced acoustic pressure waves are measured by an array of detectors and used to reconstruct an image of the initial pressure distribution. A common challenge faced in PAT is that the measured acoustic waves can only be sparsely sampled. Reconstructing sparsely sampled data using standard methods results in severe artifacts that obscure information within the image. We propose a novel convolutional neural network (CNN) architecture termed Fully Dense UNet (FD-UNet) for removing artifacts from 2D PAT images reconstructed from sparse data and compare the proposed CNN with the standard UNet in terms of reconstructed image quality. 
