@@ -1,5 +1,6 @@
 # Papers of computer vision
-#### [CVPR 2018 paper list](2018/cvpr2018.md)
+#### [CVPR 2018 paper list](2018/cvpr2018.md) with arxiv pdf link
+#### [NIPS 2018 paper list ](2018/NIPS2018.md) with merged abstract
 
 
 ## papers from [arxiv cs.cv](http://arxiv.org)
